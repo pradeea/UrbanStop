@@ -23,3 +23,8 @@ files regarding the task
 
 11)so overall in the card component there is main card component and chart component 
 
+12)to run this this application clone the repository run command npm install
+
+13)and run command npm start
+
+
