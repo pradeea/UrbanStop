@@ -1,0 +1,51 @@
+.Column1_column1__3J-Qi {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  min-width: 170px;
+  position: relative;
+  height: 80px;
+  padding: 8px;
+  background: rgba(0, 0, 0, 0.05);
+}
+.Column1_column1__3J-Qi .Column1_scripData__3fUxd {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-right: 14px;
+  margin-left: 12px;
+}
+.Column1_column1__3J-Qi .Column1_scripData__3fUxd .Column1_scrip__2pj2O {
+  color: rgba(0, 0, 0, 0.4);
+  font-size: 0.8rem;
+  font-weight: 700;
+}
+.Column1_column1__3J-Qi .Column1_scripData__3fUxd .Column1_price__3nkeC {
+  color: #00b7ff;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.Column1_column1__3J-Qi .Column1_styledData__1KKBT {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.Column1_column1__3J-Qi .Column1_styledData__1KKBT .Column1_ishares__gNrOu {
+  color: #a8bd84;
+  font-weight: 700;
+  font-size: 1.3rem;
+}
+.Column1_column1__3J-Qi .Column1_styledData__1KKBT .Column1_blackdoc__2UDUt {
+  font-size: 0.6rem;
+}
+.Column1_column1__3J-Qi .Column1_styledData__1KKBT .Column1_sp__2H-tG {
+  font-size: 1.2rem;
+  font-weight: 700;
+}
+.Column1_column1__3J-Qi .Column1_styledData__1KKBT .Column1_equity__g28G5 {
+  font-size: 1rem;
+}

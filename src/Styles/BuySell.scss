@@ -1,0 +1,15 @@
+@import "./MainCard";
+
+.column5 {
+  @include flexDisplay(column);
+  background-color: $card-background;
+  padding: 8px;
+  height: $card-height;
+}
+
+.buysellbutton {
+  border: "2px solid orange";
+  color: "orange";
+  width: 74;
+  font-size: "1.4rem";
+}
